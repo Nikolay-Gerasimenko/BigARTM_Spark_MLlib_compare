@@ -1,8 +1,8 @@
 # AITD (Artificial Intelligence Trends Dataset)
 
-Collocations and metadata are in *collection.csv*\newline
-Markup is in *trends_markup.csv*\newline
-Dataset statistics are described in our paper [... et al. "Incremental Topic Modeling for Scientific Trend Topics Extraction"](http://...)\newline
+Collocations and metadata are in *collection.csv* \
+Markup is in *trends_markup.csv* \
+Dataset statistics are described in our paper [... et al. "Incremental Topic Modeling for Scientific Trend Topics Extraction"](http://...) \
 All papers and authors ids are from Semantic Scholar ORD.
 
 ## Structure of the *collection.csv*:
